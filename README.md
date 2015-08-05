@@ -2,7 +2,7 @@
 
 ## 1 JDKのダウンロードとインスタール
 
-   ### 1.Java SE 1.7 Download
+ ### a.Java SE 1.7 Download
    download url:http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 
    <br/>
@@ -11,7 +11,7 @@
    **自分のOSに合わせて、ファイルをダウンロードしてください。**
    <br/>
 
-   ### 2.PATHの設定
+ ### b.PATHの設定
     手順:https://www.java.com/ja/download/help/path.xml
 
 ## 2 IDEのダウンロードとインスタール
