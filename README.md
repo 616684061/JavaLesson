@@ -12,7 +12,7 @@
    <br/>
 
 ### b.PATHの設定
-    手順:https://www.java.com/ja/download/help/path.xml
+   手順:https://www.java.com/ja/download/help/path.xml
 
 ## 2 IDEのダウンロードとインスタール
 
