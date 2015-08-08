@@ -17,7 +17,7 @@
 ## 2 IDEのダウンロードとインスタール
 
   今後の講義でEclipseをメインIDEとして進めたいと思いますが、<br>
-  IDEAになれる方はIDEAをつかっても構いません。
+  IDEAになれる方はIDEAをつかっても構いません。<br>
    まずはEclipseダウンロードし、インスタールしてください。
 <br/>
    Eclipse:https://www.eclipse.org/downloads/
@@ -26,7 +26,7 @@
    <br/>
    起動と設定手順:http://www.searchman.info/java_eclipse/1070.html
 
-   IDEAを使う場合<br/>
+   IDEAを使う場合のダウンロード先は以下となります<br/>
    IntelliJ IDEA:https://www.jetbrains.com/idea/download/
    **バーションはCommunity Editionを選んで下さい**
 
