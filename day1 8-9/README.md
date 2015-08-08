@@ -1,7 +1,7 @@
+﻿
 
 
-
-`//Java ���ץꥱ�`�����λ�������
+`//Java アプリケーションの基本構造
 class HelloWorld{
      public static void main(String[] args) {
         System.out.println("Hello World!");
@@ -9,30 +9,30 @@ class HelloWorld{
  }`
 
 
- ### 1.class����
-   ���`���ե������ڤˤϡ�һ�����Ϥ�class(���饹)���Ԥ���Ҫ�ˤʤ�ޤ���<br>
-   **һ�ĤΥ��`���ե�������}���Υ��饹���x���뤳�ȤϿ��ܤǤ�����public classָ���Υ��饹��һ�ĥ��`���ե�����ˤĤ���
-   һ�Ĥ���ӛ���Ǥ��ޤ���**<br/>
-   **���饹��������ǤĤ��뤳�Ȥ��Ǥ��ޤ�����public class�����Ԥ�����Ϥϡ����`���ե��������ȥ��饹����ͬ���ǤϤʤ��ƤϤ����ޤ���**<br>
+ ### 1.class宣言
+   ソースファイル内には、一つ以上のclass(クラス)宣言が必要になります。<br>
+   **一つのソースファイルに複数のクラスを定義することは可能ですが、public class指定のクラスは一つソースファイルにつき、
+   一つしか記述できません**<br/>
+   **クラス名は任意でつけることができますが、public classを宣言する場合は、ソースファイル名とクラス名は同じではなくてはいけません**<br>
 
-   #### OK����
-   `//Test.java�Ǳ���
+   #### OKの例
+   `//Test.javaで保存
    class Foo{}
    class Bar{}
    `
 
-   `//Foo.java�Ǳ���
+   `//Foo.javaで保存
    public class Foo{}
    class Bar{}
    `
 
-   #### NG����
-   `//Foo.java�Ǳ���
+   #### NGの例
+   `//Foo.javaで保存
    public class Foo{}
    public class Bar{}
    `
 
-   `//Bar.java�Ǳ���
+   `//Bar.javaで保存
    public class Foo{}
    class Bar{}
    `
