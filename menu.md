@@ -24,17 +24,15 @@
 ### vii.データの比較
 
 ## 4．分岐文
-### i.If
-### ii.If-Else
-### iii. Else-if
-### iv. 条件演算子
-### v. Switch
+### i.  [if,if-else文](day2%208-16/4-1.md#if)<br/> 
+### ii. [条件演算子(:?)](day2%208-16/4-1.md#の説明)<br/> 
+### iii.[switch](day2%208-16/4-1.md#switch文)<br/>
 
 ## 5．繰り返し文と繰り返し制御文
-### i.For
-### ii.While
-### iii.Do-while
-### iv.For-each
+### i.for,拡張for文
+### ii.while
+### iii.do-while
+### iv.制御文のネスト
 ### v.繰り返し制御文(break,continue)
 ### vi.アルゴリズム:`全探索、二分探索
 
