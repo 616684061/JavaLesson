@@ -31,7 +31,7 @@
 ## 5．繰り返し文と繰り返し制御文
 ### i.[for,拡張for文](day2%208-16/5-1.md)<br/>
 ### ii.[while](day2%208-16/5-2.md)<br/>
-### iii.do-while
+### iii.[do-while]
 ### iv.制御文のネスト
 ### v.繰り返し制御文(break,continue)
 ### vi.アルゴリズム:`全探索、二分探索
