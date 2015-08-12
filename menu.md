@@ -29,8 +29,8 @@
 ### iii.[switch](day2%208-16/4-1.md#switch文)<br/>
 
 ## 5．繰り返し文と繰り返し制御文
-### i.for,拡張for文
-### ii.while
+### i.[for,拡張for文](day2%208-16/5-1.md)<br/>
+### ii.[while](day2%208-16/5-2.md)<br/>
 ### iii.do-while
 ### iv.制御文のネスト
 ### v.繰り返し制御文(break,continue)
