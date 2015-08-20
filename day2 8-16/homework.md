@@ -1,7 +1,7 @@
 ## 問題2-1
 以下のコードを完成してください。
 
-	import java.util.*
+	import java.util.*;
 	class Test{
 		public static void main(String args[]){
 			ArrayList<Double> list=new ArrayList<Double>();
@@ -21,12 +21,12 @@ whileを使って、100から1000まで(1000を含む)の数字を加算する�
 
 ArrayListを使用した式で、正しくないものは次のどれですか。二つを選択してください。<br/>
 
-* A. ArrayList list=new ArrayList<Character>();	
-* B. ArrayList<char> list=new ArrayList<Character>();	
-* C. ArrayList<Character> list=new ArrayList<Character>();	
-* D. ArrayList<Object> list=new ArrayList<Character>();
-* E. ArrayList list=new ArrayList(100);
-* F. ArrayList<Character> list=new ArrayList<>();
+* A. `ArrayList list=new ArrayList<Character>();	`
+* B. `ArrayList<char> list=new ArrayList<Character>();`	
+* C. `ArrayList<Character> list=new ArrayList<Character>();`	
+* D. `ArrayList<Object> list=new ArrayList<Character>();`
+* E. `ArrayList list=new ArrayList(100);`
+* F. `ArrayList<Character> list=new ArrayList<>();`
 
 ##問題2-4
 
